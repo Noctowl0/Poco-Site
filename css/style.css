@@ -1,0 +1,172 @@
+*{
+    margin:0;
+    padding:0;
+    background-color: #dbdbdb;
+    font-family: 'Oxygen', sans-serif;
+}
+
+
+
+#ustkisim{
+	width: 850px;
+	height: 250px;
+	margin: 0 auto 0 auto;
+	display: table;
+	background-color: black;
+
+
+}
+
+
+#ustkisim img{
+	width: 800px;
+	height: 150px;
+	object-fit: cover;
+	margin: 0 auto 0 auto;
+	display: table;
+	margin-top: 10px;
+
+
+}
+
+
+.menu{
+	margin: 0 auto 0 auto;
+	display: table;
+	background-color: black;
+
+}
+
+.menu li{
+	list-style:none ;
+	float: left;
+	margin-right: 40px;
+	font-size: 25px;
+	border: 2px solid #bfbec2;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	text-decoration: none;
+	padding: 3px;
+	background-color: black;
+
+
+}
+
+.menu li a{
+	text-decoration: none;
+	color: #bfbec2;
+	background-color: black;
+
+	}
+
+
+#anakisim{
+	background-color: black;
+	width: 850px;
+	height: auto;
+	margin: 30px auto 0 auto;
+	display: table;
+
+
+
+}
+
+
+
+#anakisim img{
+	background-color: black;
+	width: 700px;
+	height: 500px;
+	object-fit: cover;
+	padding-top: 50px;
+
+	margin: 0 auto 0 auto ;
+	display: table;
+
+
+
+}
+
+
+#Anakisim{ 
+	background-color: black;
+	width: 850px;
+	height: auto;
+	margin: 30px auto 0 auto;
+	display: table;
+ }
+
+
+ #Anakisim img{
+	background-color: black;
+	float: left;
+	width: 350px;
+	height: 250px;
+	object-fit: cover;
+	padding: 50px 20px 20px 0px;
+
+	margin: 0 auto 0 auto ;
+	display: table;
+	margin-bottom: 50px;
+
+
+}
+
+
+
+#Anakisim p{
+	margin-top: 30px;
+	background-color: black;
+	color: white;
+	font-size: 17px;
+
+
+}
+
+
+#Anakisim button{
+	padding: 3px;
+	background-color: #e3e34b;
+	margin-top: 15px;
+	font-size: 20px;
+	border-radius:8px ;
+	border: 2px solid white;
+
+}
+
+
+#iletisim{
+	background-color: black;
+	width: 850px;
+	height: 180px;
+	margin: 30px auto 0 auto;
+	display: table;
+
+}
+
+
+
+#iletisim form{
+	background-color: black;
+	color: white;
+	padding: 20px;
+	font-size: 22px;
+
+}
+
+
+#iletisim form .buton{
+	font-size: 22px;
+	margin-top: 15px;
+
+}
+
+
+#iletisim form input{
+	margin-top: 10px;
+
+}
+
+
+
+
